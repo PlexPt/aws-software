@@ -31,7 +31,7 @@ Awesome Software 自用软件整理
 |                       VSO Downloader 5                       |   视频下载   |                                                          |
 |                            Clash                             |     冲突     |                                                          |
 |                    IObit Uninstaller Pro                     |   卸载工具   |                                                          |
-|                        TrafficMonitor                        |   网速显示   |                                                          |
+| [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) |   网速显示   |                                                          |
 |                          VeraCrypt                           |   全盘加密   |                                                          |
 |                            XMind                             |   思维导图   |                                                          |
 |                            GifCam                            |   gif录屏    |                                                          |
